@@ -1,0 +1,22 @@
+<H1> mi primer programa HTML!! </h1>
+<br>
+<br>
+
+sera esto realmente un programa? descubralo <a href="https://es.wikipedia.org/wiki/HTML">aqui</a>
+
+<br>
+<br>
+
+ingresa <a href="https://es.wikipedia.org/wiki/javascript">aqui</a> para ver un verdadero lenguage de programacion
+
+<script>
+alert("esto si es un lenguage de programacion");
+</script>
+
+<meta charset="UTF-8">
+<h1>Usando JavaScript por primera vez</h1>
+<script>
+    alert("Este es un pop-up en JavaScript");
+</script>
+
+Esto está fuera de JavaScript...
